@@ -1,0 +1,8 @@
+{
+  "name": "demo-2-tini-connect",
+  "version": "0.0.1",
+  "tiki": {
+    "appIdentifier": "tiki.insuretech.demoTini",
+    "buildNumber": 6
+  }
+}

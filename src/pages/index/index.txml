@@ -1,0 +1,6 @@
+<view>
+  <view>Đây là tini app xây dựng để connect 2 app</view>
+  <view class="btn">
+    <button onTap="onTap" type="outline">Go ekyc</button>
+  </view>
+</view>
