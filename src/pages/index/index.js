@@ -7,10 +7,10 @@ Page({
   onTap() {
     my.navigateToMiniApp({
       // appId: "com.tini.appstore",
-      appId: "tiki.insuretech.ekyc",
+      appId: "tala.insurtech.ekyc",
       extraData: {
         from: "tini connect 2 app",
-        id: "tiki.insuretech.demoTini",
+        id: "tala.insuretech.demoTini",
       },
       success: (e) => {
         my.alert({ content: JSON.stringify({ e: e, mess: "success" }) });
