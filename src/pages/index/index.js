@@ -6,8 +6,8 @@ Page({
   onUnload() {},
   onTap() {
     my.navigateToMiniApp({
-      // appId: "com.tini.appstore",
-      appId: "tala.insurtech.ekyc",
+      appId: "com.tini.appstore",
+      // appId: "tala.insurtech.ekyc",
       extraData: {
         from: "tini connect 2 app",
         id: "tala.insuretech.demoTini",
